@@ -1,0 +1,38 @@
+# Unity-generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uilds/
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+*.pidb
+*.pdb
+*.opendb
+*.VC.db
+# Secrets, machine state and local test data
+**/node_modules/
+**/.wrangler/
+**/.openai/
+**/outputs/
+**/.env*
+**/.dev.vars*
+*.sqlite*
+*.db
+*.log
+*.tar.gz
+*.zip
+Thumbs.db
+.DS_Store
+# Keep the small prebuilt Unity browser payload; regenerate page/server output.
+/WebPreview/dist/*
+!/WebPreview/dist/client/
+/WebPreview/dist/client/*
+!/WebPreview/dist/client/Build/
+!/WebPreview/dist/client/TemplateData/
+!/WebPreview/dist/client/ThirdPartyNotices.txt

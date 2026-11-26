@@ -1,0 +1,37 @@
+[
+  {
+    "name": "f009_body",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.858578622341156,
+    "albedo": "f009_body_albedo.jpg",
+    "normal": "f009_body_normal.jpg"
+  },
+  {
+    "name": "f009_head",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.858578622341156,
+    "albedo": "f009_head_albedo.jpg",
+    "normal": "f009_head_normal.jpg"
+  },
+  {
+    "name": "f009_opacity",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.858578622341156,
+    "albedo": "f009_opacity_albedo.png"
+  }
+]

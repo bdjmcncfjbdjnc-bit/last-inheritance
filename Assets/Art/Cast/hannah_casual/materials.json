@@ -1,0 +1,133 @@
+[
+  {
+    "name": "f006_head",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "f006_head_albedo.jpg",
+    "normal": "f006_head_normal.png"
+  },
+  {
+    "name": "f006_opacity",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.6000000238418579,
+    "albedo": "f006_opacity_albedo.png"
+  },
+  {
+    "name": "Outfit_formal",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Outfit_formal_albedo.jpg",
+    "normal": "Outfit_formal_normal.png"
+  },
+  {
+    "name": "f006_body",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "f006_body_albedo.jpg",
+    "normal": "f006_body_normal.png"
+  },
+  {
+    "name": "Shoes",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Shoes_albedo.jpg",
+    "normal": "Shoes_normal.png"
+  },
+  {
+    "name": "Skin_formal",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Skin_formal_albedo.jpg",
+    "normal": "Skin_formal_normal.png"
+  },
+  {
+    "name": "Skin_shirt",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Skin_shirt_albedo.jpg",
+    "normal": "Skin_shirt_normal.png"
+  },
+  {
+    "name": "Skin_tee",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Skin_tee_albedo.jpg",
+    "normal": "Skin_tee_normal.png"
+  },
+  {
+    "name": "Top_shirt",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Top_shirt_albedo.jpg",
+    "normal": "Top_shirt_normal.png"
+  },
+  {
+    "name": "Top_tee",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Top_tee_albedo.jpg",
+    "normal": "Top_tee_normal.png"
+  },
+  {
+    "name": "Trousers",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Trousers_albedo.jpg",
+    "normal": "Trousers_normal.png"
+  }
+]

@@ -1,0 +1,26 @@
+/* Keep faces and the common pot visible while people talk. */
+#chat{max-height:32vh;bottom:7rem}
+#chat-body{min-height:0;display:flex;flex-direction:column}
+#chat-log{min-height:42px;max-height:110px;flex:1}
+#chat header,.chat-input,#quick-chat{flex-shrink:0}
+body[data-phase="debate"] #notice{top:24%;width:min(65%,680px)}
+body[data-phase="debate"] #notice-title{font-size:1.7rem;letter-spacing:.12em}
+body[data-phase="debate"] #notice-copy{font-size:.9rem;margin-top:.4rem}
+body[data-phase="vote"] #chat{max-height:27vh}
+body[data-phase="vote"] #chat-log{max-height:75px}
+#topbar{z-index:45;background:linear-gradient(#060604b0,transparent)}
+#help{z-index:50}
+.chat-input input{flex:1;min-width:0;width:auto}
+#targets button.nameplate{opacity:1;background:#0d0e0bb8;border-color:#b79d6333;box-shadow:none;padding:.45rem .75rem}
+#targets .nameplate .target-detail{font-size:11px}
+@media(max-width:760px){
+  #topbar{padding:.65rem .6rem;gap:.35rem;align-items:flex-start}
+  .brand{font-size:.9rem;letter-spacing:.05em;white-space:nowrap}
+  .subbrand{display:none}
+  .top-right{gap:.25rem;justify-content:flex-end;flex-wrap:wrap}
+  #chat{right:.6rem;width:220px;bottom:7.5rem;max-height:28vh}
+  #chat-log{max-height:75px}
+  #actionbar{bottom:4rem}
+  #action-hint{bottom:2.5rem;max-width:95%;white-space:normal;text-align:center}
+  #footer{gap:.3rem}#footer button{font-size:11px;padding:.4rem .5rem}
+}

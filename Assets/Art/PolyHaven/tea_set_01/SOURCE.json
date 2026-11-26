@@ -1,0 +1,13 @@
+{
+  "id": "tea_set_01",
+  "source": "https://polyhaven.com/a/tea_set_01",
+  "license": "CC0",
+  "license_url": "https://polyhaven.com/license",
+  "files": [
+    "Assets\\Art\\PolyHaven\\tea_set_01\\tea_set_01.fbx",
+    "Assets\\Art\\PolyHaven\\tea_set_01\\textures\\tea_set_01_diff_2k.jpg",
+    "Assets\\Art\\PolyHaven\\tea_set_01\\textures\\tea_set_01_metal_2k.exr",
+    "Assets\\Art\\PolyHaven\\tea_set_01\\textures\\tea_set_01_rough_2k.exr",
+    "Assets\\Art\\PolyHaven\\tea_set_01\\textures\\tea_set_01_nor_gl_2k.exr"
+  ]
+}

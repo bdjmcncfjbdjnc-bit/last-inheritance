@@ -1,0 +1,36 @@
+newmtl m008_head
+Kd 1 1 1
+Ns 18
+map_Kd m008_head_albedo.jpg
+newmtl m008_opacity
+Kd 1 1 1
+Ns 18
+map_Kd m008_opacity_albedo.png
+newmtl m008_body
+Kd 1 1 1
+Ns 18
+map_Kd m008_body_albedo.jpg
+newmtl Shoes
+Kd 1 1 1
+Ns 18
+map_Kd Shoes_albedo.jpg
+newmtl Skin_shirt
+Kd 1 1 1
+Ns 18
+map_Kd Skin_shirt_albedo.jpg
+newmtl Skin_tee
+Kd 1 1 1
+Ns 18
+map_Kd Skin_tee_albedo.jpg
+newmtl Top_shirt
+Kd 1 1 1
+Ns 18
+map_Kd Top_shirt_albedo.jpg
+newmtl Top_tee
+Kd 1 1 1
+Ns 18
+map_Kd Top_tee_albedo.jpg
+newmtl Trousers
+Kd 1 1 1
+Ns 18
+map_Kd Trousers_albedo.jpg

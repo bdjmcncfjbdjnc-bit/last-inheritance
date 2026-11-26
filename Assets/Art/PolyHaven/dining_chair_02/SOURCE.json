@@ -1,0 +1,13 @@
+{
+  "id": "dining_chair_02",
+  "source": "https://polyhaven.com/a/dining_chair_02",
+  "license": "CC0",
+  "license_url": "https://polyhaven.com/license",
+  "files": [
+    "Assets\\Art\\PolyHaven\\dining_chair_02\\dining_chair_02.fbx",
+    "Assets\\Art\\PolyHaven\\dining_chair_02\\textures\\dining_chair_02_rough_2k.jpg",
+    "Assets\\Art\\PolyHaven\\dining_chair_02\\textures\\dining_chair_02_diff_2k.jpg",
+    "Assets\\Art\\PolyHaven\\dining_chair_02\\textures\\dining_chair_02_metal_2k.exr",
+    "Assets\\Art\\PolyHaven\\dining_chair_02\\textures\\dining_chair_02_nor_gl_2k.exr"
+  ]
+}

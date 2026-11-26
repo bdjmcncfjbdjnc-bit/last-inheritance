@@ -1,0 +1,16 @@
+{
+  "id": "vintage_cabinet_01",
+  "source": "https://polyhaven.com/a/vintage_cabinet_01",
+  "license": "CC0",
+  "license_url": "https://polyhaven.com/license",
+  "files": [
+    "Assets\\Art\\PolyHaven\\vintage_cabinet_01\\vintage_cabinet_01.fbx",
+    "Assets\\Art\\PolyHaven\\vintage_cabinet_01\\textures\\vintage_cabinet_01_a_rough_2k.png",
+    "Assets\\Art\\PolyHaven\\vintage_cabinet_01\\textures\\vintage_cabinet_01_a_nor_gl_2k.png",
+    "Assets\\Art\\PolyHaven\\vintage_cabinet_01\\textures\\vintage_cabinet_01_b_rough_2k.png",
+    "Assets\\Art\\PolyHaven\\vintage_cabinet_01\\textures\\vintage_cabinet_01_a_metal_2k.png",
+    "Assets\\Art\\PolyHaven\\vintage_cabinet_01\\textures\\vintage_cabinet_01_a_diff_2k.png",
+    "Assets\\Art\\PolyHaven\\vintage_cabinet_01\\textures\\vintage_cabinet_01_b_nor_gl_2k.png",
+    "Assets\\Art\\PolyHaven\\vintage_cabinet_01\\textures\\vintage_cabinet_01_b_diff_2k.png"
+  ]
+}

@@ -1,0 +1,12 @@
+newmtl f009_body
+Kd 1 1 1
+Ns 18
+map_Kd f009_body_albedo.jpg
+newmtl f009_head
+Kd 1 1 1
+Ns 18
+map_Kd f009_head_albedo.jpg
+newmtl f009_opacity
+Kd 1 1 1
+Ns 18
+map_Kd f009_opacity_albedo.png

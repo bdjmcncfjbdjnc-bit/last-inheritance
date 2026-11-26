@@ -1,0 +1,13 @@
+{
+  "id": "Chandelier_02",
+  "source": "https://polyhaven.com/a/Chandelier_02",
+  "license": "CC0",
+  "license_url": "https://polyhaven.com/license",
+  "files": [
+    "Assets\\Art\\PolyHaven\\Chandelier_02\\Chandelier_02.fbx",
+    "Assets\\Art\\PolyHaven\\Chandelier_02\\textures\\Chandelier_02_diff_2k.jpg",
+    "Assets\\Art\\PolyHaven\\Chandelier_02\\textures\\Chandelier_02_roughness_2k.jpg",
+    "Assets\\Art\\PolyHaven\\Chandelier_02\\textures\\Chandelier_02_metallic_2k.exr",
+    "Assets\\Art\\PolyHaven\\Chandelier_02\\textures\\Chandelier_02_nor_gl_2k.exr"
+  ]
+}

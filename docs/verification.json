@@ -1,0 +1,111 @@
+{
+  "verifiedAt": "2026-11-24T11:21:35.324Z",
+  "status": "completed_with_public_network_interruption",
+  "unitTests": {
+    "passed": 20,
+    "failed": 0,
+    "randomizedRounds": 10000,
+    "verified": true
+  },
+  "browserChecks": {
+    "fourIndependentBrowsersJoinedAndReadied": true,
+    "actualUnityBrowserBuildLoaded": true,
+    "fullEightNightGameCompleted": true,
+    "theftKeyboardActionAndPrivateBalance": true,
+    "knockKeyboardActionAndSingleActionLock": true,
+    "accusationMouseSelectionAndWrongGuessPenalty": true,
+    "correctGuessAndCaughtThiefSettlementDisplayed": true,
+    "simultaneousTieWinnersDisplayed": true,
+    "finalHistoryOpenedAndStayedOpen": true,
+    "rematchLobbyVerified": false,
+    "textChatSynced": true,
+    "viewportChecked": {
+      "width": 390,
+      "height": 844,
+      "horizontalOverflow": false
+    },
+    "fourUnitySeatViewsRendered": true,
+    "syntheticVoice": {
+      "browsers": 4,
+      "connectionsPerBrowser": 3,
+      "audioReceivingPerBrowser": 3,
+      "disableAndReconnectPassed": true,
+      "realMicrophoneUsed": false
+    },
+    "lightweightVersionSevenLoaded": true,
+    "lightweightKnockAndActionLockVerified": true,
+    "lightweightVoteAndSettlementVerified": true,
+    "lightweightSceneDownloadBytes": 26884758,
+    "lightweightPublicScreenshot": "LightweightPublicGameplay.jpg"
+  },
+  "limitations": [
+    "Public extended run stopped after one fetch failure; the failed report is retained. Exact cause is unconfirmed.",
+    "Four-browser voice was tested on one machine with synthetic audio. Real microphones and complex cross-network NAT are not certified.",
+    "No TURN relay is configured. Text chat remains available.",
+    "Characters use baked seated meshes, small head motion and procedural hand feedback. The fourth guest reuses an existing character.",
+    "Repeated simultaneous 3D pages were slow while the test computer had less than 1 GB of free RAM. A single fresh page loaded and completed a game.",
+    "The core round rules were unchanged during the two-hour local run; later lobby, UI and rematch fixes were verified separately."
+  ],
+  "runs": {
+    "localTwoHour": {
+      "started": "2026-11-24T09:21:25.085Z",
+      "finished": "2026-11-24T11:21:25.427Z",
+      "elapsedMs": 7200342,
+      "durationMs": 7200000,
+      "status": "passed",
+      "requests": 49455,
+      "games": 16,
+      "rounds": 134,
+      "reconnects": 79,
+      "duplicateChecks": 396,
+      "errors": [],
+      "retries": 0
+    },
+    "publicInitialFifteenMinute": {
+      "started": "2026-11-24T09:29:35.981Z",
+      "finished": "2026-11-24T09:44:36.046Z",
+      "elapsedMs": 900065,
+      "durationMs": 900000,
+      "status": "passed",
+      "requests": 4848,
+      "games": 2,
+      "rounds": 16,
+      "reconnects": 9,
+      "duplicateChecks": 51,
+      "errors": [],
+      "retries": 0
+    },
+    "publicExtendedInterrupted": {
+      "started": "2026-11-24T09:59:19.169Z",
+      "elapsedMs": 2852615,
+      "durationMs": 4800000,
+      "status": "failed",
+      "requests": 14870,
+      "games": 6,
+      "rounds": 53,
+      "reconnects": 31,
+      "duplicateChecks": 159,
+      "errors": [
+        {
+          "at": "2026-11-24T10:46:51.783Z",
+          "message": "TypeError: fetch failed"
+        }
+      ],
+      "retries": 0
+    },
+    "publicRecovery": {
+      "started": "2026-11-24T10:54:06.334Z",
+      "finished": "2026-11-24T11:18:07.067Z",
+      "elapsedMs": 1440734,
+      "durationMs": 1440000,
+      "status": "passed",
+      "requests": 7784,
+      "games": 3,
+      "rounds": 26,
+      "reconnects": 15,
+      "duplicateChecks": 81,
+      "errors": [],
+      "retries": 0
+    }
+  }
+}

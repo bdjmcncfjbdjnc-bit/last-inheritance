@@ -1,0 +1,98 @@
+[
+  {
+    "name": "m016_head",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "m016_head_albedo.jpg",
+    "normal": "m016_head_normal.png"
+  },
+  {
+    "name": "m016_body",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "m016_body_albedo.jpg",
+    "normal": "m016_body_normal.png"
+  },
+  {
+    "name": "Shoes",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Shoes_albedo.jpg",
+    "normal": "Shoes_normal.png"
+  },
+  {
+    "name": "Skin_shirt",
+    "factor": [
+      0.9434378147125244,
+      0.9153205156326294,
+      0.8694032430648804,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Skin_shirt_albedo.jpg",
+    "normal": "Skin_shirt_normal.png"
+  },
+  {
+    "name": "Skin_tee",
+    "factor": [
+      0.6213968992233276,
+      0.5942502617835999,
+      0.5891063809394836,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Skin_tee_albedo.jpg",
+    "normal": "Skin_tee_normal.png"
+  },
+  {
+    "name": "Top_shirt",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Top_shirt_albedo.jpg",
+    "normal": "Top_shirt_normal.png"
+  },
+  {
+    "name": "Top_tee",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Top_tee_albedo.jpg",
+    "normal": "Top_tee_normal.png"
+  },
+  {
+    "name": "Trousers",
+    "factor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "roughness": 0.7,
+    "albedo": "Trousers_albedo.jpg",
+    "normal": "Trousers_normal.png"
+  }
+]
